@@ -1,6 +1,6 @@
 # Iosquitto
 
-iOS Client of Mosquitto.
+iOS Client of [Mosquitto](http://mosquitto.org).
 
 # Features
 
